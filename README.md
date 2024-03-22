@@ -13,7 +13,7 @@
   [교재 사이트](https://product.kyobobook.co.kr/detail/S000001033077)  
    [교재 소스 코드](https://github.com/dltpdn/insightbook.opencv_project_python)
 
-![alt text](image.png)
+![alt text](textbook.png)
 
 <hr/>
 
