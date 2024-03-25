@@ -22,6 +22,7 @@
 | 패키지 이름 | 버전   |
 | ----------- | ------ |
 | Python      | 3.8.18 |
+| cv2(OpenCV) | 4.9.0  |
 
 <hr/>
 
@@ -35,8 +36,13 @@
 | 23.03.22  | OpenCV 기초 | [Naver Blog](https://blog.naver.com/mathnoah/223391854965)|DAY02/01_CV.ipynb |
 | 23.03.22  | 파이썬으로 배우는 CV프로젝트 : 기본 입출력| [Naver Blog](https://blog.naver.com/mathnoah/223391858244)|DAY02/01_CV.ipynb |
 | 23.03.22  | 얼굴인식, Haar Cascade| [Naver Blog](https://blog.naver.com/mathnoah/223391901679)|DAY02/03_Haar_Video.ipynb, 02_Haar.ipynb |
-| 23.03.22  | | [Naver Blog]()|DAY02/ |
-
+| 23.03.22  |CNN구현, CIFAR_10 | [Naver Blog](https://blog.naver.com/mathnoah/223392040433)|DAY02/04_CIFAR_CNN.ipynb |
+| 23.03.23   |CNN(Convolution Nueral Network)  |[Naver Blog](https://blog.naver.com/mathnoah/223393011260) |--|
+| 23.03.24   | Torchvision |[Naver Blog](https://blog.naver.com/mathnoah/223393384047) |--|
+| 23.03.24   | 파이썬으로 배우는 CV프로젝트 : Numpy |[Naver Blog](https://blog.naver.com/mathnoah/223393450182) |--|
+| 23.03.25   | 파이썬으로 배우는 CV프로젝트 : 이미지 프로세싱 기초 |[Naver Blog](https://blog.naver.com/mathnoah/223394737785) |--|
+| 23.03.25  ||[Naver Blog]()|DAY03/03_pillow.ipynb|
+| 23.03.25  ||[Naver Blog]()|DAY04|
 <hr/>
 
 <details>
